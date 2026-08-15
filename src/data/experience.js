@@ -118,6 +118,12 @@ export const achievements = [
     date: "Oct 2025 · NxtWave",
     description: "Program covering full-stack web development alongside applied AI fundamentals.",
   },
+  {
+    title: "MSME Hackathon",
+    category: "Hackathon",
+    date: "2025",
+    description: "Participated and got selected for the first two rounds.",
+  },
 ];
 
 export const writing = [
