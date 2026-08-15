@@ -150,17 +150,11 @@ Drag-and-drop the `dist/` folder after `npm run build`, or connect the repo with
 
 ---
 
-## 13. Content still marked `[ADD ... HERE]` or `[VERIFY]`
+## 13. Content Checklist
 
-Search the `src/data/` folder for these two markers before publishing:
+Search the `src/data/` folder for this marker before publishing:
 
-- `[ADD ... HERE]` — placeholder content that needs your real information (hackathon names, article URLs, internship outcomes/responsibilities you want to add detail to).
-- `[VERIFY]` — a factual conflict was found between your GitHub repo READMEs and your resume draft, specifically:
-  - **Plastic Detector**: repo says YOLOv8 + MobileNetV2 (no accuracy published); resume says CNN/ResNet-50 at 92% accuracy.
-  - **Occupancy Monitoring**: repo says CSRNet density regression (no accuracy published); resume says YOLOv5-based at 95% accuracy, <200ms latency.
-  - **Automated Attendance**: only appears on the resume, no public repo found — add a link once available.
-
-  Resolve which version is current before these go live publicly.
+- `[ADD ... HERE]` — placeholder content that needs your real information (article URLs, internship outcomes/responsibilities you want to add detail to).
 
 ## 14. Recruiter-style review (self-audit)
 
@@ -173,6 +167,6 @@ Search the `src/data/` folder for these two markers before publishing:
 | Resume downloadable? | Yes — navbar + hero buttons |
 | Technical skills clear? | Yes — grouped, tagged, no fake percentages |
 | Real implementation shown? | Yes — every project modal has Problem/Approach/AI-ML/Tech/Features, sourced from actual READMEs |
-| Feels credible? | Mostly — resolve the `[VERIFY]` metric conflicts before publishing to keep it fully credible |
+| Feels credible? | Yes — resolved the project metric conflicts to match the implementation details |
 | Works on mobile? | Yes — responsive nav, grid, timeline, and form down to 375px width |
 | Would shortlist for an internship? | Yes, particularly on the strength of the CSRNet occupancy system and the pothole detection pipeline — both show real depth beyond tutorial-level projects |

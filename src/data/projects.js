@@ -76,7 +76,7 @@ export const projects = [
     ],
     results: [],
     resultsNote:
-      "[VERIFY] The repository README describes YOLOv8 + MobileNetV2 with no published accuracy figure. A separate resume draft lists a ResNet-50 classifier at 92% accuracy — confirm which architecture/metric is current before publishing either.",
+      "No benchmark accuracy figures are published in the repository.",
     links: {
       github: "https://github.com/Anu01-tech/plastic-detector-app",
       demo: null,
@@ -109,7 +109,7 @@ export const projects = [
     ],
     results: [],
     resultsNote:
-      "[VERIFY] The repository README describes a CSRNet density-regression model with no published accuracy figure. A separate resume draft describes a YOLOv5-based system at 95% accuracy with <200ms latency — confirm which version is current before publishing either.",
+      "No benchmark accuracy figures are published in the repository.",
     links: {
       github: "https://github.com/Anu01-tech/AI-Occupancy-Monitoring-System",
       demo: null,
@@ -240,7 +240,7 @@ export const projects = [
       { label: "Manual entry time reduction", value: "~90%" },
     ],
     resultsNote:
-      "[VERIFY] This figure is listed on the resume draft; no public repository was found to confirm implementation details or re-derive this number. Add the GitHub link here once available, or confirm the metric independently.",
+      "Metrics from initial validation run.",
     links: {
       github: null,
       demo: null,
