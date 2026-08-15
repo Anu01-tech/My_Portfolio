@@ -118,12 +118,6 @@ export const achievements = [
     date: "Oct 2025 · NxtWave",
     description: "Program covering full-stack web development alongside applied AI fundamentals.",
   },
-  {
-    title: "[ADD HACKATHON / COMPETITION NAME HERE]",
-    category: "Hackathon",
-    date: "[ADD DATE HERE]",
-    description: "[ADD SHORT DESCRIPTION HERE]",
-  },
 ];
 
 export const writing = [
